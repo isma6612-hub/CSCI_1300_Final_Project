@@ -10,4 +10,4 @@
 ### Dungeons, fighting, and traveling between locations will take up a specified amount of time. There will be limited inventory space.
 ### Tradeoff: a mogma offers the player digging gloves to tunnel to the final boss, skipping the last dungeon, but it will cost a heart container.
 ### Win by defeating Ganon before three days end. If time runs out or all hearts are lost, the player will lose.
-# EC: option one to find the shortest route on the map because longer distances will take more time
+### EC: option one to find the shortest route on the map because longer distances will take more time
