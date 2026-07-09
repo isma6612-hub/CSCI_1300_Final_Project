@@ -2,7 +2,7 @@
 
 ## Theme
 
-(TBA)
+The theme of this game is the Legend of Zelda. The player can travel to regions from the franchise, fight monsters, and enter dungeons.
 
 ## Goal
 
