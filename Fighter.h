@@ -15,11 +15,14 @@ public:
     Fighter(string n, int h, int p);
 
     //getters
+    string getName();
     int getHealth();
     int getPower();
 
     //setters
+    void setName(string n);
     void setHealth(int h);
+    void setPower(int p);
 
 };
 

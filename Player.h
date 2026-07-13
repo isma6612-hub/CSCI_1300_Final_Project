@@ -19,6 +19,7 @@ class Player : public Fighter {
 
         //getters
         int getHeartContainers();
+        int getMoney();
 
         //setters
         void setHeartContainers(int c);

@@ -13,6 +13,10 @@ int Player::getHeartContainers() {
     return heartContainers;
 }
 
+int Player::getMoney() {
+    return money;
+}
+
     
 void Player::setHeartContainers(int c) {
     heartContainers = c;
